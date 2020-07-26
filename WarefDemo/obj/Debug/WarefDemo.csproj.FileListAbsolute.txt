@@ -93,3 +93,7 @@ C:\Users\Waref\source\repos\WarefDemo\WarefDemo\WarefDemo1\WarefDemo\obj\Debug\W
 C:\Users\Waref\source\repos\WarefDemo\WarefDemo\WarefDemo1\WarefDemo\obj\Debug\WarefDemo.csproj.CopyComplete
 C:\Users\Waref\source\repos\WarefDemo\WarefDemo\WarefDemo1\WarefDemo\obj\Debug\WarefDemo.dll
 C:\Users\Waref\source\repos\WarefDemo\WarefDemo\WarefDemo1\WarefDemo\obj\Debug\WarefDemo.pdb
+C:\Users\Waref\source\repos\WarefDemo\WarefDemo\WarefDemo1\WarefDemo\bin\log4net.dll
+C:\Users\Waref\source\repos\WarefDemo\WarefDemo\WarefDemo1\WarefDemo\bin\Swashbuckle.Core.dll
+C:\Users\Waref\source\repos\WarefDemo\WarefDemo\WarefDemo1\WarefDemo\bin\WebActivatorEx.dll
+C:\Users\Waref\source\repos\WarefDemo\WarefDemo\WarefDemo1\WarefDemo\bin\log4net.xml

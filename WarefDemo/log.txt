@@ -1,0 +1,3 @@
+2020-07-26 23:50:47,104 [6] INFO  INFO [(null)] - entred here
+2020-07-26 23:51:01,474 [7] INFO  INFO [(null)] - entred here
+2020-07-26 23:55:16,175 [7] ERROR INFO [(null)] - id <0 !!

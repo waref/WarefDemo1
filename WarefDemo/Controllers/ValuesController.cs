@@ -1,4 +1,5 @@
-﻿using System;
+﻿using log4net;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -9,15 +10,19 @@ namespace WarefDemo.Controllers
 {
     public class ValuesController : ApiController
     {
+        static protected ILog log = LogManager.GetLogger("INFO");
         // GET api/values
         public IEnumerable<string> Get()
         {
+            log.Info("entred here");
             return new string[] { "value1", "value2" };
         }
 
         // GET api/values/5
         public string Get(int id)
         {
+            if (id<1)
+                log.Error("id <0 !!");
             return "value";
         }
 
